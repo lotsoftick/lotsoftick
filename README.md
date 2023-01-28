@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Vue.js-454443?style=for-the-badge&logo=vue.js" /> 
 <img src="https://img.shields.io/badge/-Redux-454443?style=for-the-badge&logo=Redux" /> 
 <img src="https://img.shields.io/badge/-React Router-454443?style=for-the-badge&logo=ReactRouter" />
-<img src="https://img.shields.io/badge/-Tailwind-454443?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNjQuMDA0IDI1LjYwMmMtMTcuMDY3IDAtMjcuNzMgOC41My0zMiAyNS41OTcgNi4zOTgtOC41MzEgMTMuODY3LTExLjczIDIyLjM5OC05LjU5NyA0Ljg3MSAxLjIxNCA4LjM1MiA0Ljc0NiAxMi4yMDcgOC42NkM3Mi44ODMgNTYuNjI5IDgwLjE0NSA2NCA5Ni4wMDQgNjRjMTcuMDY2IDAgMjcuNzMtOC41MzEgMzItMjUuNjAyLTYuMzk5IDguNTM2LTEzLjg2NyAxMS43MzUtMjIuMzk5IDkuNjAyLTQuODctMS4yMTUtOC4zNDctNC43NDYtMTIuMjA3LTguNjYtNi4yNy02LjM2Ny0xMy41My0xMy43MzgtMjkuMzk0LTEzLjczOHpNMzIuMDA0IDY0Yy0xNy4wNjYgMC0yNy43MyA4LjUzMS0zMiAyNS42MDJDNi40MDIgODEuMDY2IDEzLjg3IDc3Ljg2NyAyMi40MDIgODBjNC44NzEgMS4yMTUgOC4zNTIgNC43NDYgMTIuMjA3IDguNjYgNi4yNzQgNi4zNjcgMTMuNTM2IDEzLjczOCAyOS4zOTUgMTMuNzM4IDE3LjA2NiAwIDI3LjczLTguNTMgMzItMjUuNTk3LTYuMzk5IDguNTMxLTEzLjg2NyAxMS43My0yMi4zOTkgOS41OTctNC44Ny0xLjIxNC04LjM0Ny00Ljc0Ni0xMi4yMDctOC42NkM1NS4xMjggNzEuMzcxIDQ3Ljg2OCA2NCAzMi4wMDQgNjR6bTAgMCIgZmlsbD0iIzM4YjJhYyIvPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/-Tailwind-454443?style=for-the-badge&logo=tailwindcss" />
 <img src="https://img.shields.io/badge/-bootstrap-454443?style=for-the-badge&logo=bootstrap" />
 <img src="https://img.shields.io/badge/-SASS-454443?style=for-the-badge&logo=sass" />
 
