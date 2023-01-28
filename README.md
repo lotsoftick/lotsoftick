@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lotsoftick/lotsoftick/main/grid_0.webp" width="250"/>
+<img src="https://raw.githubusercontent.com/lotsoftick/lotsoftick/main/grid_0.webp" width="150"/>
 
 # 
 
