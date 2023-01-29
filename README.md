@@ -4,7 +4,7 @@
 
 # Full-Stack software engineer
 
-### Professional skills
+### :hammer_and_wrench: Professional skills
 ##### Fornt-End
 
 <img src="https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/-Next.js-454443?style=for-the-badge&logo=next.js" /> 
@@ -38,6 +38,8 @@
 <img src="https://img.shields.io/static/v1?label=DigitalOcean&logo=digitalocean&labelColor=454443&color=4f626a&style=for-the-badge&message=All services" />
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotsoftick&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://img.shields.io/badge/-DigitalOcean: All Services-454443?style=for-the-badge&logo=digitalocean" />
 <img src="https://img.shields.io/badge/-GCE: API services, Identity and Access Management, Container Registry, Kubernetes Engine, Cloud Storage-454443?style=for-the-badge&logo=googlecloud" />
 <img src="https://img.shields.io/badge/-AWS: S3, Cloud Front, Simple Email Services, Lambda functions, Elastic Kubernetes Service, Identity and Access Management, EC2-454443?style=for-the-badge&logo=amazon" />
