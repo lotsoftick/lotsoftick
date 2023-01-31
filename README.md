@@ -37,9 +37,8 @@
 <img src="https://img.shields.io/static/v1?label=GCE&logo=googlecloud&labelColor=454443&color=4f626a&style=for-the-badge&message=API services, Identity and Access Management, Container Registry, Kubernetes Engine, Cloud Storage" />
 <img src="https://img.shields.io/static/v1?label=DigitalOcean&logo=digitalocean&labelColor=454443&color=4f626a&style=for-the-badge&message=All services" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotsoftick&layout=compact&theme=onedark)]
-
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotsoftick&layout=compact&theme=onedark)]
 (https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/-DigitalOcean: All Services-454443?style=for-the-badge&logo=digitalocean" />
